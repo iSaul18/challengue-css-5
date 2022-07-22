@@ -39,6 +39,7 @@ html {
 
 .hero__title {
     color: var(--Dark-Grayish-Blue);
+    margin-top: 35px;
     margin-bottom: 1rem;
 }
 
