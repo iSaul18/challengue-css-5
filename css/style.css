@@ -209,7 +209,7 @@ html {
     display: flex;
     flex-direction: row;
     gap: 3em;
-    justify-content: end;
+    justify-content: center;
 }
 
 .footer__media {
